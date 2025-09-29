@@ -6,4 +6,3 @@ astroquery
 matplotlib
 pandas
 argparse
-re
