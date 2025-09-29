@@ -1,2 +1,1 @@
-# CalCutTa
-Calibrator search widget
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BezuidenhoutMC/CalCutTa/HEAD?urlpath=voila/render/CalibratorSearchWidget.ipynb)
