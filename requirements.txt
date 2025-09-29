@@ -2,7 +2,6 @@ astropy
 numpy
 plotly
 ipywidgets
-importlib
 astroquery
 matplotlib
 pandas
